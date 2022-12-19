@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>POS Sale</fullName>
+    <isActive>true</isActive>
+    <values>
+        <fullName>AWAITING_DISPATCH</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>AWAITING_PICKUP</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Closed Lost</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Closed Won</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Planned</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Pledged</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Promised</fullName>
+        <default>false</default>
+    </values>
+</BusinessProcess>
