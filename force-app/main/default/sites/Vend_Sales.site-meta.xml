@@ -19,7 +19,7 @@
     <genericErrorPage>Exception</genericErrorPage>
     <inMaintenancePage>InMaintenance</inMaintenancePage>
     <inactiveIndexPage>InMaintenance</inactiveIndexPage>
-    <indexPage>Vend_Sales</indexPage>
+    <indexPage>inforgepos__Vend_Sales</indexPage>
     <masterLabel>Vend Sales</masterLabel>
     <redirectToCustomDomain>true</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
